@@ -4,5 +4,6 @@ progress
 progressbar2
 httplib2shim
 google_auth_oauthlib
-pyrogram==2.0.77
+#pyrogram==2.0.77
+PyroBlack==2.3.84
 tgcrypto
